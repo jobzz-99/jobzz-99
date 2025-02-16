@@ -17,7 +17,7 @@ I'm a **Computer Science student** in my final semester, actively exploring **cy
 - **Cybersecurity Research: Identifying & Reporting Vulnerabilities** 🕵️‍♂️
 
 ## 📫 Connect with Me
-- **GitHub:** [Your GitHub Profile Link]
+- **GitHub:** https://github.com/jobzz-99
 - **LinkedIn:** https://www.linkedin.com/in/jobin-mathew-379654254/
 - **Email:** jobinmathewmay07@gmail.com
 
